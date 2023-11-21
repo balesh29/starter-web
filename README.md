@@ -1,6 +1,7 @@
 #Starter Web Project
 # Dep
 
+This is a sample repository
 ## Introduction
 ## Purpose
 ## How to contribute
