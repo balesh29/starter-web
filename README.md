@@ -6,7 +6,7 @@ This is a sample repository
 ## Purpose
 ## How to contribute
 
-
+New paragraph lorem ipsum
 
 # Starter Web Repo
 
